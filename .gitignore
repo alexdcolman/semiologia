@@ -1,0 +1,10 @@
+# Repositorio de publicación: por defecto, nada del proyecto local se versiona.
+*
+
+# Únicos contenidos permitidos en Git/GitHub.
+!.gitignore
+!.github/
+!.github/workflows/
+!.github/workflows/pages.yml
+!public/
+!public/**
