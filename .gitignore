@@ -8,3 +8,6 @@
 !.github/workflows/pages.yml
 !public/
 !public/**
+# Historial local de versiones de guías. Nunca se publica ni se versiona.
+/.old/
+
