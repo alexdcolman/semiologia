@@ -88,7 +88,7 @@
       <div class="gate-mark">CBC · UBA</div>
       <h1 id="selector-title">Semiología</h1>
       <p class="gate-chair">Cátedra Vitale · Segundo cuatrimestre 2026</p>
-      <p>Elegí tu comisión para entrar al sitio de cursada.</p>
+      <p>Seleccionar una comisión para acceder al sitio de cursada.</p>
       <div class="commission-options">
         ${allowed.map(id => {
           const c=data.commissions[id];

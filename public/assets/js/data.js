@@ -1,5 +1,5 @@
 window.SEMIO_DATA = {
-  version: "0.1.0",
+  version: "0.2.2",
   course: {
     name: "Semiología",
     institution: "CBC · Universidad de Buenos Aires",
@@ -76,7 +76,7 @@ window.SEMIO_DATA = {
     {label:"Instagram de la cátedra", url:"https://www.instagram.com/semiologia.cbc/"}
   ],
   guides: [
-    {slug:"01-peirce", title:"Peirce: signo, objeto e interpretante", group:"Signo y semiología", status:"new"},
+    {slug:"01-peirce", title:"Peirce: semiosis, signo, objeto e interpretante", group:"Signo y semiología", status:"new"},
     {slug:"02-saussure", title:"Saussure: signo lingüístico, lengua y valor", group:"Signo y semiología", status:"new"},
     {slug:"03-peirce-saussure", title:"Peirce y Saussure: comparación", group:"Signo y semiología", status:"new"},
     {slug:"04-generos-discursivos", title:"Géneros discursivos: Bajtín", group:"Discurso, ideología y enunciación", status:"new"},
@@ -86,7 +86,7 @@ window.SEMIO_DATA = {
     {slug:"08-modalidades", title:"Modalidades", group:"Discurso, ideología y enunciación", status:"new"},
     {slug:"09-polifonia", title:"Polifonía", group:"Discurso, ideología y enunciación", status:"new"},
     {slug:"13-veron", title:"Verón: la palabra adversativa", group:"Discurso político", status:"new"},
-    {slug:"10-pruebas-aristoteles", title:"Argumentación y tipos de prueba", group:"Discurso político", status:"new"},
+    {slug:"10-pruebas-aristoteles", title:"Tipos de prueba: Aristóteles", group:"Discurso político", status:"new"},
     {slug:"11-logos", title:"Lógos: técnicas argumentativas", group:"Discurso político", status:"new"},
     {slug:"19c-discurso-polemico", title:"Discurso polémico (tuits)", group:"Discurso político", status:"existing"},
     {slug:"12-ethos-maingueneau", title:"Êthos en Maingueneau", group:"Discurso político", status:"new"},
