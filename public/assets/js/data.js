@@ -1,5 +1,5 @@
 window.SEMIO_DATA = {
-  version: "0.2.2",
+  version: "0.2.3",
   course: {
     name: "Semiología",
     institution: "CBC · Universidad de Buenos Aires",
