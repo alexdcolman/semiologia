@@ -1,5 +1,5 @@
 window.SEMIO_DATA = {
-  version: "0.2.3",
+  version: "0.2.4",
   course: {
     name: "Semiología",
     institution: "CBC · Universidad de Buenos Aires",
@@ -34,15 +34,14 @@ window.SEMIO_DATA = {
   materialsWhere: "Los materiales de lectura se consiguen en la librería Eudeba del primer módulo del CBC.",
   timeline: [
     {date:"10/8", kind:"clase", title:"Presentación y Peirce", reading:"El estudio de los signos: introducción a “La semiótica de Peirce”."},
-    {date:"13/8", kind:"lectura", title:"Peirce", reading:"Cap. I: I.1; I.1.1 sin apartados a, b y c; I.1.2; I.4.2; I.4.2.1; I.4.2.2; I.4.2.3."},
     {date:"17/8", kind:"sin-clase", title:"Feriado", reading:"Paso a la Inmortalidad del General José de San Martín."},
-    {date:"20, 24 y 27/8", kind:"lectura", title:"Saussure", reading:"Cap. II: introducción; II.1; II.1.1; II.1.1.1; II.1.2; II.2; II.2.1; II.4; II.4.1; II.4.2; II.4.3; II.6; II.6.1; y “A modo de conclusión” para la comparación Peirce/Saussure."},
-    {date:"31/8", kind:"lectura", title:"Géneros discursivos e ideología", reading:"Trayectos semiológicos: parte II, II.1.2.1 sobre Bajtín; parte III, III.3 sobre Van Dijk."},
-    {date:"3, 7, 10 y 14/9", kind:"lectura", title:"Enunciación", reading:"Trayectos semiológicos: I.1; I.2; I.3.2; I.3.2.1; I.3.2.1.1; I.3.2.2; I.3.2.3 general; I.5 con I.5.3 general; I.4 en forma general, distinguiendo modalidades de enunciación, enunciado y mensaje."},
-    {date:"17/9", kind:"repaso", title:"Repaso del primer parcial", reading:"Puesta en común del modelo de examen y criterios de respuesta."},
+    {date:"20/8", kind:"lectura", title:"Peirce", reading:"Cap. I: I.1; I.1.1 sin apartados a, b y c; I.1.2; I.4.2; I.4.2.1; I.4.2.2; I.4.2.3."},
+    {date:"27/8, 3/9 y 7/9", kind:"lectura", title:"Saussure", reading:"Cap. II: introducción; II.1; II.1.1; II.1.1.1; II.1.2; II.2; II.2.1; II.4; II.4.1; II.4.2; II.4.3; II.6; II.6.1; y “A modo de conclusión” para la comparación Peirce/Saussure."},
+    {date:"10/9", kind:"lectura", title:"Géneros discursivos e ideología", reading:"Trayectos semiológicos: parte II, II.1.2.1 sobre Bajtín; parte III, III.3 sobre Van Dijk."},
+    {date:"14 y 17/9", kind:"lectura", title:"Enunciación", reading:"Trayectos semiológicos: I.1; I.2; I.3.2; I.3.2.1; I.3.2.1.1; I.3.2.2; I.3.2.3 general; I.5 con I.5.3 general."},
     {date:"21/9", kind:"sin-clase", title:"Probable asueto", reading:"Consultar avisos de la cursada por eventuales modificaciones."},
-    {date:"24/9", kind:"examen", title:"Primer parcial", reading:"Evaluación de los contenidos trabajados hasta la clase de repaso."},
-    {date:"28/9", kind:"lectura", title:"Polifonía", reading:"Trayectos semiológicos: negación polifónica, discurso referido y usos de comillas."},
+    {date:"24/9", kind:"repaso", title:"Repaso del primer parcial", reading:"Puesta en común del modelo de examen y criterios de respuesta."},
+    {date:"28/9", kind:"examen", title:"Primer parcial", reading:"Evaluación de los contenidos trabajados hasta la clase de repaso."},
     {date:"1, 5, 8 y 15/10", kind:"lectura", title:"Análisis del discurso político", reading:"Introducción al análisis del discurso político: III.1 Verón; II.1.2 tipos de prueba; II.1.3 lógos, con causal, pragmático, dirección, autoridad, ejemplo y analogía; II.2.1 discurso polémico con sus técnicas y figuras según el recorte; II.1.4.1 êthos en Maingueneau."},
     {date:"12/10", kind:"sin-clase", title:"Feriado", reading:"Día del Respeto a la Diversidad Cultural."},
     {date:"19, 22, 26 y 29/10; 2/11", kind:"lectura", title:"Imagen y discurso digital", reading:"De la imagen analógica al discurso digital: III.3 Gutiérrez Sanz; III.1 Cantamutto y Vela Delfa; III.2 Paveau sin memoria tecnodiscursiva; III.4 Calvo; III.5 Slimovich; I.1 Barthes; III.9 Wiggins; III.6 Vitale."},
